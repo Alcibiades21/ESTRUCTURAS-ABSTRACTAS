@@ -1,2 +1,0 @@
-Pilas: RAM, al conectar varias unidades USB. Últimos en llegar son los primeros en ser atendidos (LIFO). a = b + c * d
-- Colas: al imprimir varios documentos a la vez. Primero en llegar es el primero en ser atendido (FIFO). Fila india.
